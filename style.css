@@ -268,8 +268,9 @@ footer img {
 .regalos {
     text-align: center;
     background-color:#FFE4E3 ;
-    color: #E9ACC4;
+    color: var(--color-principal);
     padding: 30px 30px;
+    font-size: 1.1em;
 }
 @media (max-width: 600px) {
     header {
