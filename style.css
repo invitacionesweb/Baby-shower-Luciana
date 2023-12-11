@@ -265,7 +265,12 @@ footer img {
 .contenido a:hover {
     color: var(--color-secundario);
 }
-
+.regalos {
+    text-align: center;
+    background-color:#FFE4E3 ;
+    color: #E9ACC4;
+    padding: 30px 30px;
+}
 @media (max-width: 600px) {
     header {
         background-image: url(./img/BACKGROUND.png);
